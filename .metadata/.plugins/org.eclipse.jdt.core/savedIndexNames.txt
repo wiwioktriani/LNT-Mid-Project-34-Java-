@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\ASUS\eclipse-workspace\LnT Mid Project (Java Programming)\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
